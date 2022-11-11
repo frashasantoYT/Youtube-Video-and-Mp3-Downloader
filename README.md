@@ -4,7 +4,8 @@
 
  Make sure you have installed python on your machine, then run the program using this command:
 ```
-  python3 'youtubevideo&mp3downloader.py'
+python3 'youtubevideo&mp3downloader.py'
+
 ```  
  The program should work fine now.
  
